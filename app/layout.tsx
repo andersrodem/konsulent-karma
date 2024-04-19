@@ -8,7 +8,7 @@ const fontSans = FontSans({
   variable: "--font-sans",
 })
 
-export default function RootLayout() {
+export default function RootLayout({children}: any) {
   return (
     <html lang="en" suppressHydrationWarning>
       <head />
@@ -18,7 +18,7 @@ export default function RootLayout() {
           fontSans.variable
         )}
       >
-        ...
+        {children}
       </body>
     </html>
   )
