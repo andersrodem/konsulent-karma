@@ -44,15 +44,15 @@ export default function KonsulenthusCard({
           <div className="pt-4 -mb-1">
             <small className="text-sm font-medium leading-none ">Linker:</small>
           </div>
-          <ul className="ml-6 list-disc">
-            {links.map((link, index) => (
-              <li key={index} className="mt-2">
-                <a href={link} className="text-blue-500">
-                  {link}
-                </a>
-              </li>
-            ))}
-          </ul>
+<ul className="ml-6 list-disc">
+  {links.map((link, index) => (
+    <li key={index} className="mt-2">
+      <a href={link} target="_blank" rel="noopener noreferrer" className="text-blue-500">
+        {link}
+      </a>
+    </li>
+  ))}
+</ul>
         </CardContent>
         <CardFooter>
           <div className="space-x-2 opacity-50">

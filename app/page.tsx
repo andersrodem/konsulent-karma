@@ -18,9 +18,9 @@ export default function Home() {
   );
 
   return (
-    <div className="px-5">
-      <div className="py-5 md:pr-10 md:px-5 flex justify-between space-x-4">
-        <h3 className="scroll-m-20 text-2xl font-semibold tracking-tight">
+    <div className="">
+      <div className="py-5 px-2 md:pr-10 md:px-5 flex justify-between space-x-4">
+        <h3 className="pl-2 scroll-m-20 text-2xl font-semibold tracking-tight">
           konsulentkarma.no
         </h3>
         <TipsUs />

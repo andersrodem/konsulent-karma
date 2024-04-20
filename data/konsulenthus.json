@@ -10,7 +10,7 @@
     "arbeidsgiver": "Forte Digital",
     "dato_for_oppsigelse": "Mai 2023",
     "type": ["internship", "graduate program"],
-    "links": ["www.vg.no", "www.example.com"],
+    "links": ["https://www.vg.no", "https://www.example.com"],
     "detaljer": "Lorem Ipsu m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consectetur adipiscing elit"
   },
   {
@@ -24,7 +24,7 @@
     "arbeidsgiver": "Test",
     "dato_for_oppsigelse": "2022-06-12",
     "type": ["internship", "graduate program"],
-    "links": ["www.vg.no", "www.example.com"],
+    "links": ["https://www.vg.no", "https://www.example.com"],
     "detaljer": "Lorem Ipsu m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consectetur adipiscing elit"
   }
 ]
