@@ -26,7 +26,7 @@ export default function Home() {
         <h3 className="scroll-m-20 text-2xl font-semibold tracking-tight">
           KonsulentKarma
         </h3>
-        <TipsUs />  
+        <TipsUs />
       </div>
       <div className="flex flex-col mx-auto max-w-[90%] md:max-w-[50%] md:text-center md:pt-48 pt-12 ">
         {" "}
@@ -42,9 +42,8 @@ export default function Home() {
           ekstra forsiktig med å signere med disse.
         </p>
         <div className="pt-4">
-        <DialogPopover />
+          <DialogPopover />
         </div>
-
       </div>
       <div className="mx-auto pt-36">
         <div className="w-full md:max-w-96 mx-auto px-5">
@@ -68,12 +67,23 @@ export default function Home() {
       <div className="pt-6 lg:w-4/5 mx-auto px-4 w-full">
         <h2 className="scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight first:mt-0">
           Svartelistede konsulenthus
-        </h2>
-        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-4 pt-10">
-          {filteredKonsulenthus.map((item: konsulenthusType) => (
-            <KonsulenthusCard key={item.arbeidsgiver} {...item} />
-          ))}
-        </div>
+</h2>
+<div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-4 pt-10">
+  {filteredKonsulenthus.length === 0 ? (
+    <div className="col-span-full pt-36  w-full text-center ">
+      <h3 className="scroll-m-20 text-2xl font-semibold tracking-tight">
+        Ingen treff! Trygg for nå 🚀
+      </h3>
+      <p className="leading-7 [&:not(:first-child)]:mt-4">
+      Burde det vært et selskap her? Send det inn på knappen i toppen av siden!
+    </p>
+    </div>
+  ) : (
+    filteredKonsulenthus.map((item: konsulenthusType) => (
+      <KonsulenthusCard key={item.arbeidsgiver} {...item} />
+    ))
+  )}
+</div>
       </div>
       <div className="pt-96">
         <p>.</p>

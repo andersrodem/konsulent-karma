@@ -1,16 +1,30 @@
 [
   {
     "arbeidsgiver": "Netlight",
-    "dato_for_oppsigelse": "2024-06-12",
+    "dato_for_oppsigelse": "April 2024",
     "type": ["internship", "nyansatte"],
     "links": ["apple", "banana", "cherry"],
     "detaljer": "Lorem Ipsu m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consectetur adipiscing elit"
   },
   {
     "arbeidsgiver": "Forte Digital",
+    "dato_for_oppsigelse": "Mai 2023",
+    "type": ["internship", "graduate program"],
+    "links": ["www.vg.no", "www.example.com"],
+    "detaljer": "Lorem Ipsu m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consectetur adipiscing elit"
+  },
+  {
+    "arbeidsgiver": "Rodem",
+    "dato_for_oppsigelse": "2024-06-12",
+    "type": ["internship", "nyansatte"],
+    "links": ["apple", "banana", "cherry"],
+    "detaljer": "Lorem Ipsu m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consectetur adipiscing elit"
+  },
+  {
+    "arbeidsgiver": "Test",
     "dato_for_oppsigelse": "2022-06-12",
     "type": ["internship", "graduate program"],
-    "links": ["rodem"],
+    "links": ["www.vg.no", "www.example.com"],
     "detaljer": "Lorem Ipsu m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consectetur adipiscing elit"
   }
 ]
