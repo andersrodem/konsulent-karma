@@ -19,12 +19,12 @@ export default function KonsulenthusCard({
 }: konsulenthusType) {
   return (
     <div>
-      <Card>
+      <Card className="flex flex-col h-full">
         <CardHeader>
           <CardTitle>{arbeidsgiver}</CardTitle>
-          <div></div>
-          <div className="space-x-2">
-            <small className="text-sm font-medium leading-none ">
+
+          <div className="space-x-2 ">
+            <small className="text-sm font-medium leading-none">
               Har sagt opp:
             </small>
 
@@ -34,20 +34,17 @@ export default function KonsulenthusCard({
               </Badge>
             ))}
           </div>
-          <div className="space-x-2">
-            <small className="text-sm font-medium leading-none ">Dato:</small>
-            <Badge variant="outline">{dato_for_oppsigelse}</Badge>
-          </div>
         </CardHeader>
 
-        <CardContent>
+        <CardContent className="flex-grow">
+          {" "}
           <div>
             <p>{detaljer}</p>
           </div>
           <div className="pt-4 -mb-1">
             <small className="text-sm font-medium leading-none ">Linker:</small>
           </div>
-          <ul className="mb-6 ml-6 list-disc">
+          <ul className="ml-6 list-disc">
             {links.map((link, index) => (
               <li key={index} className="mt-2">
                 <a href={link} className="text-blue-500">
@@ -57,6 +54,12 @@ export default function KonsulenthusCard({
             ))}
           </ul>
         </CardContent>
+        <CardFooter>
+          <div className="space-x-2 opacity-50">
+            <small className="text-sm font-medium leading-none ">Dato:</small>
+            <Badge variant="outline">{dato_for_oppsigelse}</Badge>
+          </div>
+        </CardFooter>
       </Card>
     </div>
   );
