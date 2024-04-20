@@ -19,8 +19,8 @@ export default function Home() {
 
   return (
     <div className="">
-      <div className="py-5 px-2 md:pr-10 md:px-5 flex justify-between space-x-4">
-        <h3 className="pl-2 scroll-m-20 text-2xl font-semibold tracking-tight">
+      <div className="py-5 px-2 md:pr-10 md:px-5 items-center flex flex-wrap justify-between space-x-4">
+        <h3 className="pl-2 scroll-m-20 text-xl  sm:text-2xl font-semibold tracking-tight">
           konsulentkarma.no
         </h3>
         <TipsUs />
@@ -87,7 +87,8 @@ export default function Home() {
       </div>
       <div className="pt-36 flex justify-center pb-12">
         <small className="text-xs text-center leading-none">
-          © 2024 Konsulentkarma.no</small>
+          © 2024 Konsulentkarma.no
+        </small>
       </div>
     </div>
   );

@@ -26,7 +26,7 @@ export default function TipsUs() {
     <div>
       <Dialog>
         <DialogTrigger asChild>
-          <Button variant={"outline"}>Nylig arbeidsløs? Tips oss!</Button>
+          <Button variant={"outline"}>Nylig arbeidsløs?</Button>
         </DialogTrigger>
         <DialogContent>
           <DialogHeader>
