@@ -1,8 +1,5 @@
 "use client";
-import Image from "next/image";
 import { Input } from "@/components/ui/input";
-import { Button } from "@/components/ui/button";
-import { Label } from "@/components/ui/label";
 import konsulenthus from "@/data/konsulenthus.json";
 import { konsulenthusType } from "@/types/types";
 import KonsulenthusCard from "@/components/ui/KonsulenthusCard";
@@ -24,22 +21,24 @@ export default function Home() {
     <div className="px-5">
       <div className="py-5 md:pr-10 md:px-5 flex justify-between space-x-4">
         <h3 className="scroll-m-20 text-2xl font-semibold tracking-tight">
-          KonsulentKarma
+          konsulentkarma.no
         </h3>
         <TipsUs />
       </div>
       <div className="flex flex-col mx-auto max-w-[90%] md:max-w-[50%] md:text-center md:pt-48 pt-12 ">
         {" "}
         <div className="pb-3">
-          <Badge variant="outline">Svartelisten for konsulentselskaper</Badge>
+          <Badge variant="outline">
+            &quot;Svartelisten&quot; for konsulentselskaper
+          </Badge>
         </div>
         <h1 className=" scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl w-full">
-          Redd for å miste internshippet eller jobben?
+          Redd for å miste internshipet eller jobben?
         </h1>
         <p className="leading-7 [&:not(:first-child)]:mt-5">
-          Disse selskapene har kansellert internships, graduate programs eller
-          nyansettelser i siste liten. Finn den jobben du vil ha, men vær litt
-          ekstra forsiktig med å signere med disse.
+          Disse selskapene har kansellert sommerjobber, graduate-programmer
+          eller nyansettelser i siste liten. Finn den jobben du vil ha, men vær
+          litt ekstra forsiktig med å signere hos disse.
         </p>
         <div className="pt-4">
           <DialogPopover />
