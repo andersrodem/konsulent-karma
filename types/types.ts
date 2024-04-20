@@ -14,11 +14,7 @@
 export type konsulenthusType = {
     arbeidsgiver: string;
     dato_for_oppsigelse: string;
-    type: {
-        internship: string;
-        fast_stilling: string;
-    };
-    links: {
-        [key: string]: string;
-    };
+    type: string[];
+    links: string[];
+    detaljer: string;
 };

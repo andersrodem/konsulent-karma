@@ -2,23 +2,15 @@
   {
     "arbeidsgiver": "Netlight",
     "dato_for_oppsigelse": "2024-06-12",
-    "type": {
-      "internship": "ja",
-      "fast_stilling": "ja"
-    },
-    "links": {
-        "Netlight": "https://www.netlight.com/"
-        }
+    "type": ["internship", "nyansatte"],
+    "links": ["apple", "banana", "cherry"],
+    "detaljer": "Lorem Ipsu m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consectetur adipiscing elit"
   },
   {
     "arbeidsgiver": "Forte Digital",
     "dato_for_oppsigelse": "2022-06-12",
-    "type": {
-      "internship": "ja",
-      "fast_stilling": "ja"
-    },
-    "links": {
-        "Netlight": "https://www.netlight.com/"
-        }
+    "type": ["internship", "graduate program"],
+    "links": ["rodem"],
+    "detaljer": "Lorem Ipsu m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consectetur adipiscing elit"
   }
 ]
