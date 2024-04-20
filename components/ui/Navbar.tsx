@@ -1,6 +1,6 @@
 "use client";
-import TipsUs from "./TipsUs";
 import Link from "next/link";
+import { Button } from "./button";
 
 export default function Navbar() {
   return (
@@ -10,7 +10,11 @@ export default function Navbar() {
           konsulentkarma.no
         </h3>
       </Link>
-      <TipsUs />
+      <Button asChild variant={"outline"}>
+        <Link href="/nylig-arbeidsledig">
+          Nylig arbeidsledig? 
+        </Link>
+      </Button>{" "}
     </div>
   );
 }

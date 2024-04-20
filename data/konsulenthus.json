@@ -14,14 +14,21 @@
     "detaljer": "Lorem Ipsu m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consectetur adipiscing elit"
   },
   {
-    "arbeidsgiver": "Rodem",
-    "dato_for_oppsigelse": "2024-06-12",
-    "type": ["internship", "nyansatte"],
-    "links": ["apple", "banana", "cherry"],
+    "arbeidsgiver": "Knowit",
+    "dato_for_oppsigelse": "Mai 2023",
+    "type": ["internship", "graduate program"],
+    "links": ["https://www.vg.no", "https://www.example.com"],
     "detaljer": "Lorem Ipsu m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consectetur adipiscing elit"
   },
   {
-    "arbeidsgiver": "Test",
+    "arbeidsgiver": "Variant",
+    "dato_for_oppsigelse": "2022-06-12",
+    "type": ["internship", "graduate program"],
+    "links": ["https://www.vg.no", "https://www.example.com"],
+    "detaljer": "Lorem Ipsu m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consectetur adipiscing elit"
+  },
+  {
+    "arbeidsgiver": "Itera",
     "dato_for_oppsigelse": "2022-06-12",
     "type": ["internship", "graduate program"],
     "links": ["https://www.vg.no", "https://www.example.com"],
