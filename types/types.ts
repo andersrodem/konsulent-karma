@@ -18,3 +18,9 @@ export type konsulenthusType = {
     links: string[];
     detaljer: string;
 };
+
+
+export type formSubmissionType = {
+    email: string;
+    message: string;
+};
