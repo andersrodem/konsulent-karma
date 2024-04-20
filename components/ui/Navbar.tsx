@@ -1,0 +1,16 @@
+"use client";
+import TipsUs from "./TipsUs";
+import Link from "next/link";
+
+export default function Navbar() {
+  return (
+    <div className="py-5 px-2 md:pr-10 md:px-5 items-center flex flex-wrap justify-between space-x-4">
+      <Link href="/">
+        <h3 className="pl-2 scroll-m-20 text-xl sm:text-2xl font-semibold tracking-tight">
+          konsulentkarma.no
+        </h3>
+      </Link>
+      <TipsUs />
+    </div>
+  );
+}

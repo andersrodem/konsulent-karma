@@ -7,9 +7,28 @@ import { Badge } from "@/components/ui/badge";
 import { useState } from "react";
 import DialogPopover from "@/components/ui/DialogPopover";
 import TipsUs from "@/components/ui/TipsUs";
+import { Button } from "@/components/ui/button";
+import Link from "next/link";
+import Navbar from "@/components/ui/Navbar";
+import Footer from "@/components/ui/Footer";
+
 
 export default function Home() {
   const [searchTerm, setSearchTerm] = useState("");
+  const norwegianMonths = [
+    "januar",
+    "februar",
+    "mars",
+    "april",
+    "mai",
+    "juni",
+    "juli",
+    "august",
+    "september",
+    "oktober",
+    "november",
+    "desember",
+  ];
 
   const filteredKonsulenthus = konsulenthus.filter((item: konsulenthusType) =>
     Object.values(item).some((value) =>
@@ -19,12 +38,7 @@ export default function Home() {
 
   return (
     <div className="">
-      <div className="py-5 px-2 md:pr-10 md:px-5 items-center flex flex-wrap justify-between space-x-4">
-        <h3 className="pl-2 scroll-m-20 text-xl  sm:text-2xl font-semibold tracking-tight">
-          konsulentkarma.no
-        </h3>
-        <TipsUs />
-      </div>
+      <Navbar />
       <div className="flex flex-col mx-auto max-w-[90%] md:max-w-[50%] md:text-center md:pt-48 pt-12 ">
         {" "}
         <div className="pb-3">
@@ -41,7 +55,12 @@ export default function Home() {
           litt ekstra forsiktig med å signere hos disse.
         </p>
         <div className="pt-4">
-          <DialogPopover />
+          {/* <DialogPopover /> */}
+          <Button asChild>
+            <Link href="/hvorfor-ha-en-konsulent-svarteliste">
+              Hvorfor ha en svarteliste?
+            </Link>
+          </Button>{" "}
         </div>
       </div>
       <div className="mx-auto pt-36">
@@ -85,11 +104,7 @@ export default function Home() {
           )}
         </div>
       </div>
-      <div className="pt-36 flex justify-center pb-12">
-        <small className="text-xs text-center leading-none">
-          © 2024 Konsulentkarma.no
-        </small>
-      </div>
+      <Footer />
     </div>
   );
 }
