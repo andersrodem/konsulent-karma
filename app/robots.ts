@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: ["/"],
       disallow: ["/search?q=", "/admin/"]
     },
-    sitemap: ["https://www.konsulentkarma.com/sitemap.xml"]
+    sitemap: ["https://www.konsulentkarma.no/sitemap.xml"]
   };
 }
