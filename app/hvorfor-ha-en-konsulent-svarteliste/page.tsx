@@ -59,7 +59,7 @@ export default function HvorforSvarteliste() {
           <br />
           <br />
           Synes du det er litt mye? Har du innspill? Hjelp oss bli bedre! Vi kan
-          finne bedre løsnigner sammen. <br />
+          finne bedre løsninger sammen. <br />
           <br />
           <strong>Kontakt oss:</strong>
           <br />
