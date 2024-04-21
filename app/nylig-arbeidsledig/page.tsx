@@ -1,12 +1,4 @@
 "use client";
-import {
-  Dialog,
-  DialogContent,
-  DialogDescription,
-  DialogHeader,
-  DialogTitle,
-  DialogTrigger,
-} from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
@@ -29,7 +21,20 @@ export default function NyligArbeidslos() {
 
   const handleSubmit = async (event: any) => {
     event.preventDefault();
-    await sendEmail(event.target.message.value);
+
+    const email = event.target.email.value;
+    const company = event.target.company.value;
+    const date = event.target.date.value;
+    const message = event.target.message.value;
+
+    const emailText = `
+E-post: ${email}
+Selskap: ${company}
+Dato: ${date}
+Beskrivelse: ${message}
+`;
+
+    await sendEmail(emailText);
     setEmailSent(true);
   };
 
@@ -59,21 +64,53 @@ export default function NyligArbeidslos() {
           den rett før oppstart. Hjelp andre studenter være forberedt til de
           skal søke!
         </p>
+
         {emailSent ? (
           <p>Ditt tips er sendt inn!</p>
         ) : (
           <form
-            className="grid w-full max-w-sm items-center gap-1.5"
+            className="grid w-full pt-8 items-center gap-4"
             onSubmit={handleSubmit}
           >
-            <Label htmlFor="email">Email</Label>
-            <Input type="email" name="email" id="email" placeholder="Email" />
-            <Label htmlFor="message">Your message</Label>
-            <Textarea
-              name="message"
-              id="message"
-              placeholder="Type your message here."
-            />
+            <div>
+              <Label htmlFor="email">Din e-post (valgfritt)</Label>
+              <Input
+                type="email"
+                name="email"
+                id="email"
+                placeholder="dittnavn@gmail.com"
+              />
+            </div>
+
+            <div>
+              <Label htmlFor="company">Hvem skulle du jobbe hos?</Label>
+              <Input
+                type="text"
+                name="company"
+                id="company"
+                placeholder="Karma Consulting AS"
+              />
+            </div>
+
+            <div>
+              <Label htmlFor="date">Når ble du sagt opp?</Label>
+              <Input
+                type="text"
+                name="date"
+                id="date"
+                placeholder="April 2023"
+              />
+            </div>
+
+            <div>
+              <Label htmlFor="message">Beskrivelse</Label>
+              <Textarea
+                name="description"
+                id="description"
+                placeholder="Skriv kort om hva som skjedde"
+              />
+            </div>
+
             <Button type="submit">Send inn</Button>
           </form>
         )}
