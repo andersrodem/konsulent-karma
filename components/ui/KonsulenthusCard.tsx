@@ -42,10 +42,12 @@ export default function KonsulenthusCard({
             <p>{detaljer}</p>
           </div>
           {links.length > 0 && (
-  <div className="pt-4 -mb-1">
-    <small className="text-sm font-medium leading-none">Linker:</small>
-  </div>
-)}
+            <div className="pt-4 -mb-1">
+              <small className="text-sm font-medium leading-none">
+                Linker:
+              </small>
+            </div>
+          )}
           <ul className="ml-6 list-disc">
             {links.map((link, index) => (
               <li key={index} className="mt-2">
