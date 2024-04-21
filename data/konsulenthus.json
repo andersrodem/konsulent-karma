@@ -3,28 +3,63 @@
     "arbeidsgiver": "Netlight",
     "dato_for_oppsigelse": "April 2024",
     "type": ["internship", "nyutdannede"],
-    "links": ["apple", "banana", "cherry"],
-    "detaljer": "Lorem Ipsu m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consectetur adipiscing elit"
+    "links": [],
+    "detaljer": "Send oss gjerne mer info på skjemaet øverst"
   },
   {
     "arbeidsgiver": "Forte Digital",
     "dato_for_oppsigelse": "Mai 2023",
     "type": ["internship", "graduate program"],
-    "links": ["https://www.vg.no", "https://www.example.com"],
-    "detaljer": "Lorem Ipsu m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consectetur adipiscing elit"
+    "links": ["https://www.nrk.no/trondelag/_maria_-mistet-jobben-i-oslo-for-hun-hadde-begynt-_-da-var-leiligheten-i-bergen-allerede-solgt-1.16467621", "https://uxnorge.no/sagt-opp-i-siste-liten/"],
+    "detaljer": "Forte Digital kansellerte internships og graduate program i siste liten. De gikk et par måneder senere ut i DN hvor de hevdet at selskapet gikk fantastisk bra."
   },
   {
     "arbeidsgiver": "Fink",
-    "dato_for_oppsigelse": "2022-06-12",
+    "dato_for_oppsigelse": "2023",
     "type": ["nyutdannede"],
-    "links": ["https://www.vg.no", "https://www.example.com"],
-    "detaljer": "Lorem Ipsu m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consectetur adipiscing elit"
+    "links": ["https://uxnorge.no/sagt-opp-i-siste-liten/"],
+    "detaljer": "Send oss gjerne mer info på skjemaet øverst"
   },
   {
     "arbeidsgiver": "Itera",
-    "dato_for_oppsigelse": "2022-06-12",
+    "dato_for_oppsigelse": "2023",
     "type": ["internship"],
-    "links": ["https://www.vg.no", "https://www.example.com"],
-    "detaljer": "Lorem Ipsu m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consecte m sin et dolor sit amet, consectetur adipiscing elit"
+    "links": [],
+    "detaljer": "Send oss gjerne mer info på skjemaet øverst"
+  },
+  {
+    "arbeidsgiver": "NoA Ignite",
+    "dato_for_oppsigelse": "2023",
+    "type": ["nyutdannede"],
+    "links": ["https://uxnorge.no/sendt-permitteringsvarsel-til-ansatte/"],
+    "detaljer": "Send oss gjerne mer info på skjemaet øverst"
+  },
+  {
+    "arbeidsgiver": "Dfind",
+    "dato_for_oppsigelse": "2023",
+    "type": ["nyutdannede"],
+    "links": [],
+    "detaljer": "Send oss gjerne mer info på skjemaet øverst"
+  },
+  {
+    "arbeidsgiver": "Aboveit",
+    "dato_for_oppsigelse": "2023",
+    "type": ["nyutdannede"],
+    "links": ["https://uxnorge.no/sagt-opp-i-siste-liten/"],
+    "detaljer": "Send oss gjerne mer info på skjemaet øverst"
+  },
+  {
+    "arbeidsgiver": "Capgemini",
+    "dato_for_oppsigelse": "2023",
+    "type": ["utsatt oppstart"],
+    "links": [],
+    "detaljer": "Send oss gjerne mer info på skjemaet øverst"
+  },
+  {
+    "arbeidsgiver": "PA Consulting",
+    "dato_for_oppsigelse": "2023",
+    "type": ["utsatt oppstart"],
+    "links": ["https://www.dn.no/arbeidsliv/nyansatte-far-utsatt-kontraktene-sine-ingrid-25-fikk-tilbud-om-a-vente-i-ett-ar/2-1-1469921"],
+    "detaljer": "Send oss gjerne mer info på skjemaet øverst"
   }
 ]
