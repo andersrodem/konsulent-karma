@@ -43,9 +43,6 @@ export default function KonsulenthusCard({
           </div>
           {links.length > 0 && (
             <div className="pt-4 -mb-1">
-              <small className="text-sm font-medium leading-none">
-                Linker:
-              </small>
             </div>
           )}
           <ul className="ml-6 list-disc">
