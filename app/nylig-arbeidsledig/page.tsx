@@ -89,6 +89,7 @@ Beskrivelse: ${description}
                 name="company"
                 id="company"
                 placeholder="Karma Consulting AS"
+                required
               />
             </div>
 
@@ -99,6 +100,7 @@ Beskrivelse: ${description}
                 name="date"
                 id="date"
                 placeholder="April 2023"
+                required
               />
             </div>
 
@@ -108,6 +110,7 @@ Beskrivelse: ${description}
                 name="description"
                 id="description"
                 placeholder="Skriv kort om hva som skjedde"
+                required
               />
             </div>
 
