@@ -20,5 +20,6 @@ Vi setter stor pris på tips, tilbakemeldinger og andre bidrag! Den enkleste må
 
 ### Kontakt oss
 
-Anders Rodem: anders.rodem@gmail.com
-Mikkel Svartveit: hei@mikkelsvartveit.com
+- Anders Rodem: anders.rodem@gmail.com
+
+- Mikkel Svartveit: hei@mikkelsvartveit.com
