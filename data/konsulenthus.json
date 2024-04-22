@@ -6,7 +6,7 @@
     "links": [
       "https://www.kode24.no/artikkel/netlight-avlyser-kontrakter-med-bade-sommervikarer-og-nyansatte/81289530"
     ],
-    "detaljer": "Netlight terminerte kontrakter for både internships og fulltidsstillinger. For sommerstudentene kom beskjeden kun to måneder før oppstart."
+    "detaljer": "Netlight terminerte kontrakter for både internships og fulltidsstillinger. For sommerstudentene kom beskjeden to måneder før oppstart."
   },
   {
     "arbeidsgiver": "Variant",
@@ -25,7 +25,14 @@
       "https://www.kode24.no/artikkel/itera-avlyser-arets-sommerstudenter-veldig-overraskende/80846234",
       "https://www.kode24.no/artikkel/signerte-fast-jobb-sa-avbrot-itera-kontrakten/80869070"
     ],
-    "detaljer": "Itera terminerte kontrakten til sommerstudentene i januar. Enkelte nyutdannede som hadde signert fast jobb fikk også kontrakten terminert. Itera vil ikke oppgi hvor mange som ble berørt. Sommerstudentene i Itera for 2022 ble også sagt opp, kun tre måneder før oppstart."
+    "detaljer": "Itera terminerte kontrakten til sommerstudentene i januar. Enkelte nyutdannede som hadde signert fast jobb fikk også kontrakten terminert. Itera vil ikke oppgi hvor mange som ble berørt. Sommerstudentene i Itera for 2022 ble også sagt opp tre måneder før oppstart."
+  },
+  {
+    "arbeidsgiver": "Kearney",
+    "dato_for_oppsigelse": "Desember 2023",
+    "type": ["utsatt oppstart", "sagt opp etter utsatt oppstart"],
+    "links": [],
+    "detaljer": "Kearney skal ha utsatt oppstart fra august til januar, og deretter sagt opp i desember. De skal dog ha betalt kompensasjon til de nyutdannede det gjaldt. Detaljer rundt kompensasjonen er ikke verifisert. Send oss gjerne mer info på skjemaet øverst"
   },
   {
     "arbeidsgiver": "Forte Digital",
@@ -35,14 +42,14 @@
       "https://www.nrk.no/trondelag/_maria_-mistet-jobben-i-oslo-for-hun-hadde-begynt-_-da-var-leiligheten-i-bergen-allerede-solgt-1.16467621",
       "https://uxnorge.no/sagt-opp-i-siste-liten/"
     ],
-    "detaljer": "Forte Digital kansellerte internships og graduate program i siste liten. De gikk et par måneder senere ut i DN hvor de hevdet at selskapet gikk fantastisk bra."
+    "detaljer": "Forte Digital kansellerte internships og graduate-program i siste liten."
   },
   {
     "arbeidsgiver": "Fink",
-    "dato_for_oppsigelse": "2023",
+    "dato_for_oppsigelse": "Februar/mars 2023",
     "type": ["nyutdannede"],
     "links": ["https://uxnorge.no/sagt-opp-i-siste-liten/"],
-    "detaljer": "Send oss gjerne mer info på skjemaet øverst"
+    "detaljer": "Fink terminerte kontrakten til flere av de nyutdannede som skulle starte i 2023."
   },
   {
     "arbeidsgiver": "NoA Ignite",
@@ -80,12 +87,5 @@
       "https://www.dn.no/arbeidsliv/nyansatte-far-utsatt-kontraktene-sine-ingrid-25-fikk-tilbud-om-a-vente-i-ett-ar/2-1-1469921"
     ],
     "detaljer": "Send oss gjerne mer info på skjemaet øverst"
-  },
-  {
-    "arbeidsgiver": "Kearney",
-    "dato_for_oppsigelse": "Desember 2023",
-    "type": ["utsatt oppstart", "sagt opp etter utsatt oppstart"],
-    "links": [],
-    "detaljer": "Kearney utsatte oppstart fra August til Januar, og deretter sa opp i Desember. De skal dog ha betalt kompensasjon til studentene det gjaldt. Denne informasjonen er ikke verifisert. Send oss gjerne mer info på skjemaet øverst"
   }
 ]
