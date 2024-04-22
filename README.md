@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Konsulentkarma.no
 
-## Getting Started
+Konsulentkarma.no er en "svarteliste" for konsulentselskaper som har kansellert internships og fulltidsstillinger.
 
-First, run the development server:
+### Hvorfor?
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Å ha en svarteliste over konsulentselskaper som tilbyr internship til studenter, for så å si dem opp før arbeidsperioden begynner, er viktig for å beskytte studentenes fremtid og integritet.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Når studenter aksepterer en internshipavtale, organiserer de ofte livet og hverdagen sitt rundt denne nye muligheten – fra å avslå andre jobbtilbud til å planlegge bosted nær arbeidsstedet. En siste-liten avlysning setter dem i en vanskelig og usikker situasjon, ofte med begrensede alternativer for erstatningsjobber. De økonomiske konsekvensene er store for enkelte, da slike inntekter er kritiske for mange studenter.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Svartelisten fungerer som et viktig verktøy for å holde selskaper ansvarlige for deres handlinger og bidrar til å sikre et mer transparent og rettferdig arbeidsmarked for studenter.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Vi ønsker å bidra til å fremme transparens og ansvarlighet i næringslivet. Ved å offentliggjøre informasjon om enkelte selskapers praksis, kan studenter gjøre mer informerte valg om hvor de ønsker å investere sin tid og karriereambisjoner. En slik liste sender også et klart signal til selskapene om at uetisk oppførsel har reelle konsekvenser, og motiverer dem til å forbedre sine forretningsmetoder.
 
-## Learn More
+Synes du det er litt mye? Har du innspill? Hjelp oss bli bedre! Vi kan finne bedre løsninger sammen.
 
-To learn more about Next.js, take a look at the following resources:
+### Bidra?
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Vi setter stor pris på tips, tilbakemeldinger og andre bidrag! Den enkleste måten å bidra er å tipse oss gjennom [kontaktskjemaet på nettsiden](https://konsulent-karma.vercel.app/nylig-arbeidsledig). Hvis du er i teknisk humør er det også mulig å lage en pull request!
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Kontakt oss
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Anders Rodem: anders.rodem@gmail.com
+Mikkel Svartveit: hei@mikkelsvartveit.com

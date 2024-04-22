@@ -65,7 +65,7 @@ export default function HvorforSvarteliste() {
           <br />
           Anders Rodem: anders.rodem@gmail.com
           <br />
-          Mikkel Svartveit: konsulentkarma@mikkelsvartveit.com
+          Mikkel Svartveit: hei@mikkelsvartveit.com
           <br />
         </p>
       </div>
