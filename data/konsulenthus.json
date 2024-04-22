@@ -3,14 +3,38 @@
     "arbeidsgiver": "Netlight",
     "dato_for_oppsigelse": "April 2024",
     "type": ["internship", "nyutdannede"],
-    "links": [],
-    "detaljer": "Send oss gjerne mer info på skjemaet øverst"
+    "links": [
+      "https://www.kode24.no/artikkel/netlight-avlyser-kontrakter-med-bade-sommervikarer-og-nyansatte/81289530"
+    ],
+    "detaljer": "Netlight terminerte kontrakter for både internships og fulltidsstillinger. For sommerstudentene kom beskjeden kun to måneder før oppstart."
+  },
+  {
+    "arbeidsgiver": "Variant",
+    "dato_for_oppsigelse": "Februar 2024",
+    "type": ["internship", "nyutdannede"],
+    "links": [
+      "https://www.kode24.no/artikkel/variant-avlyser-sommervikarer-og-nyansatte-foles-faelt/80980778"
+    ],
+    "detaljer": "Variant terminerte kontrakter for både internships og fulltidsstillinger."
+  },
+  {
+    "arbeidsgiver": "Itera",
+    "dato_for_oppsigelse": "Januar 2024",
+    "type": ["internship", "nyutdannede"],
+    "links": [
+      "https://www.kode24.no/artikkel/itera-avlyser-arets-sommerstudenter-veldig-overraskende/80846234",
+      "https://www.kode24.no/artikkel/signerte-fast-jobb-sa-avbrot-itera-kontrakten/80869070"
+    ],
+    "detaljer": "Itera terminerte kontrakten til sommerstudentene i januar. Enkelte nyutdannede som hadde signert fast jobb fikk også kontrakten terminert. Itera vil ikke oppgi hvor mange som ble berørt. Sommerstudentene i Itera for 2022 ble også sagt opp, kun tre måneder før oppstart."
   },
   {
     "arbeidsgiver": "Forte Digital",
     "dato_for_oppsigelse": "Mai 2023",
     "type": ["internship", "graduate program"],
-    "links": ["https://www.nrk.no/trondelag/_maria_-mistet-jobben-i-oslo-for-hun-hadde-begynt-_-da-var-leiligheten-i-bergen-allerede-solgt-1.16467621", "https://uxnorge.no/sagt-opp-i-siste-liten/"],
+    "links": [
+      "https://www.nrk.no/trondelag/_maria_-mistet-jobben-i-oslo-for-hun-hadde-begynt-_-da-var-leiligheten-i-bergen-allerede-solgt-1.16467621",
+      "https://uxnorge.no/sagt-opp-i-siste-liten/"
+    ],
     "detaljer": "Forte Digital kansellerte internships og graduate program i siste liten. De gikk et par måneder senere ut i DN hvor de hevdet at selskapet gikk fantastisk bra."
   },
   {
@@ -18,13 +42,6 @@
     "dato_for_oppsigelse": "2023",
     "type": ["nyutdannede"],
     "links": ["https://uxnorge.no/sagt-opp-i-siste-liten/"],
-    "detaljer": "Send oss gjerne mer info på skjemaet øverst"
-  },
-  {
-    "arbeidsgiver": "Itera",
-    "dato_for_oppsigelse": "2023",
-    "type": ["internship"],
-    "links": [],
     "detaljer": "Send oss gjerne mer info på skjemaet øverst"
   },
   {
@@ -59,7 +76,9 @@
     "arbeidsgiver": "PA Consulting",
     "dato_for_oppsigelse": "2023",
     "type": ["utsatt oppstart"],
-    "links": ["https://www.dn.no/arbeidsliv/nyansatte-far-utsatt-kontraktene-sine-ingrid-25-fikk-tilbud-om-a-vente-i-ett-ar/2-1-1469921"],
+    "links": [
+      "https://www.dn.no/arbeidsliv/nyansatte-far-utsatt-kontraktene-sine-ingrid-25-fikk-tilbud-om-a-vente-i-ett-ar/2-1-1469921"
+    ],
     "detaljer": "Send oss gjerne mer info på skjemaet øverst"
   }
 ]
