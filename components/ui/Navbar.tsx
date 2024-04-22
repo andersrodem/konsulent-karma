@@ -11,9 +11,7 @@ export default function Navbar() {
         </h3>
       </Link>
       <Button asChild variant={"outline"}>
-        <Link href="/nylig-arbeidsledig">
-          Nylig arbeidsledig? 
-        </Link>
+        <Link href="/nylig-arbeidsledig">Nylig arbeidsledig?</Link>
       </Button>{" "}
     </div>
   );

@@ -29,8 +29,8 @@ export default function Home() {
 
   const filteredKonsulenthus = konsulenthus.filter((item: konsulenthusType) =>
     Object.values(item).some((value) =>
-      value.toString().toLowerCase().includes(searchTerm.toLowerCase())
-    )
+      value.toString().toLowerCase().includes(searchTerm.toLowerCase()),
+    ),
   );
 
   return (

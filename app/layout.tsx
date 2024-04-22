@@ -3,8 +3,7 @@ import { Inter as FontSans } from "next/font/google";
 import Head from "next/head";
 import { cn } from "@/lib/utils";
 import type { Viewport, Metadata } from "next";
-import { Analytics } from '@vercel/analytics/react';
-
+import { Analytics } from "@vercel/analytics/react";
 
 const fontSans = FontSans({
   subsets: ["latin"],
@@ -14,11 +13,12 @@ const fontSans = FontSans({
 export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
-  themeColor: "#ffffff"
+  themeColor: "#ffffff",
 };
- 
+
 export const metadata: Metadata = {
-  title: 'Konsulentkarma - "Svartelisten" for konsulentselskap. Mistet sommerjobben?',
+  title:
+    'Konsulentkarma - "Svartelisten" for konsulentselskap. Mistet sommerjobben?',
   description:
     "Mistet sommerjobben/internship/graduate? Disse selskapene har kansellert sommerjobber, graduate-programmer eller nyansettelser i siste liten.",
   keywords: [
@@ -27,19 +27,20 @@ export const metadata: Metadata = {
     "mistet sommerjobb",
     "svarteliste konsulentselskap",
     "konsulentkarma",
-    "konsulentselskap internship", 
+    "konsulentselskap internship",
   ],
   metadataBase: new URL("https://www.konsulentkarma.no"),
   openGraph: {
     siteName: '"Svartelisten" for konsulentselskap - konsulentkarma.no',
     type: "website",
-    description: "Mistet sommerjobben/internship/graduate? Disse selskapene har kansellert sommerjobber, graduate-programmer eller nyansettelser i siste liten.",
+    description:
+      "Mistet sommerjobben/internship/graduate? Disse selskapene har kansellert sommerjobber, graduate-programmer eller nyansettelser i siste liten.",
     locale: "NO",
     images: {
-      url: '/opengraph-image.jpg', // replace with your image url
+      url: "/opengraph-image.jpg", // replace with your image url
       width: 1200, // replace with your image width
       height: 680, // replace with your image height
-      alt: 'Mistet sommerjobben/internship/graduate? Disse selskapene har kansellert sommerjobber, graduate-programmer eller nyansettelser i siste liten.', // replace with your image description
+      alt: "Mistet sommerjobben/internship/graduate? Disse selskapene har kansellert sommerjobber, graduate-programmer eller nyansettelser i siste liten.", // replace with your image description
     },
   },
   robots: {
@@ -48,34 +49,35 @@ export const metadata: Metadata = {
     "max-image-preview": "large",
     "max-snippet": -1,
     "max-video-preview": -1,
-    googleBot: "index, follow"
+    googleBot: "index, follow",
   },
   alternates: {
     types: {
-      "application/rss+xml": "https://www.konsulentkarma.no/rss.xml"
-    }
+      "application/rss+xml": "https://www.konsulentkarma.no/rss.xml",
+    },
   },
   applicationName: 'Konsulentkarma - "Svartelisten" for konsulentselskap',
   appleWebApp: {
     title: 'Konsulentkarma - "Svartelisten" for konsulentselskap',
     statusBarStyle: "default",
-    capable: true
+    capable: true,
   },
   verification: {
-    google: "google-site-verification=9JFFHstlt6c5zlDRpbBHMX5DtwmJMhY0Nir8fxEh5l0",
+    google:
+      "google-site-verification=9JFFHstlt6c5zlDRpbBHMX5DtwmJMhY0Nir8fxEh5l0",
   },
   icons: {
     icon: [
       {
         url: "/favicon.ico",
-        type: "image/x-icon"
+        type: "image/x-icon",
       },
     ],
     shortcut: [
       {
         url: "/favicon.ico",
-        type: "image/x-icon"
-      }
+        type: "image/x-icon",
+      },
     ],
   },
 };
@@ -86,7 +88,7 @@ export default function RootLayout({ children }: any) {
       <body
         className={cn(
           "min-h-screen bg-background font-sans antialiased",
-          fontSans.variable
+          fontSans.variable,
         )}
       >
         {children}
