@@ -25,13 +25,13 @@ export default function NyligArbeidslos() {
     const email = event.target.email.value;
     const company = event.target.company.value;
     const date = event.target.date.value;
-    const message = event.target.message.value;
+    const description = event.target.description.value;
 
     const emailText = `
 E-post: ${email}
 Selskap: ${company}
 Dato: ${date}
-Beskrivelse: ${message}
+Beskrivelse: ${description}
 `;
 
     await sendEmail(emailText);
@@ -66,7 +66,7 @@ Beskrivelse: ${message}
         </p>
 
         {emailSent ? (
-          <p>Ditt tips er sendt inn!</p>
+          <p className="pt-8 font-semibold">Ditt tips er sendt inn!</p>
         ) : (
           <form
             className="grid w-full pt-8 items-center gap-4"
