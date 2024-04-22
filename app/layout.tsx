@@ -31,9 +31,16 @@ export const metadata: Metadata = {
   ],
   metadataBase: new URL("https://www.konsulentkarma.no"),
   openGraph: {
-    siteName: 'Konsulentkarma - "Svartelisten" for konsulentselskap',
+    siteName: '"Svartelisten" for konsulentselskap - konsulentkarma.no',
     type: "website",
-    locale: "NO"
+    description: "Mistet sommerjobben/internship/graduate? Disse selskapene har kansellert sommerjobber, graduate-programmer eller nyansettelser i siste liten.",
+    locale: "NO",
+    images: {
+      url: '/opengraph-image.jpg', // replace with your image url
+      width: 1200, // replace with your image width
+      height: 680, // replace with your image height
+      alt: 'Mistet sommerjobben/internship/graduate? Disse selskapene har kansellert sommerjobber, graduate-programmer eller nyansettelser i siste liten.', // replace with your image description
+    },
   },
   robots: {
     index: true,
@@ -70,7 +77,7 @@ export const metadata: Metadata = {
         type: "image/x-icon"
       }
     ],
-  }
+  },
 };
 
 export default function RootLayout({ children }: any) {
