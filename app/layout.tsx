@@ -18,7 +18,7 @@ export const viewport: Viewport = {
 };
  
 export const metadata: Metadata = {
-  title: "Konsulentkarma - Svartelisten for konsulentselskap. Mistet sommerjobben?",
+  title: 'Konsulentkarma - "Svartelisten" for konsulentselskap. Mistet sommerjobben?',
   description:
     "Mistet sommerjobben/internship/graduate? Disse selskapene har kansellert sommerjobber, graduate-programmer eller nyansettelser i siste liten.",
   keywords: [
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   ],
   metadataBase: new URL("https://www.konsulentkarma.no"),
   openGraph: {
-    siteName: "Konsulentkarma - Svartelisten for konsulentselskap",
+    siteName: 'Konsulentkarma - "Svartelisten" for konsulentselskap',
     type: "website",
     locale: "NO"
   },
@@ -48,9 +48,9 @@ export const metadata: Metadata = {
       "application/rss+xml": "https://www.konsulentkarma.no/rss.xml"
     }
   },
-  applicationName: "Konsulentkarma - Svartelisten for konsulentselskap",
+  applicationName: 'Konsulentkarma - "Svartelisten" for konsulentselskap',
   appleWebApp: {
-    title: "Konsulentkarma - Svartelisten for konsulentselskap",
+    title: 'Konsulentkarma - "Svartelisten" for konsulentselskap',
     statusBarStyle: "default",
     capable: true
   },
