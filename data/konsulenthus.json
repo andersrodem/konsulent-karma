@@ -72,7 +72,7 @@
         "url": "https://uxnorge.no/sagt-opp-i-siste-liten/"
       }
     ],
-    "detaljer": "Fink terminerte kontrakten til flere av de nyutdannede som skulle starte i 2023."
+    "detaljer": "Fink terminerte kontrakten til flere av de nyutdannede som skulle starte i 2023. Selskapet skal ha tilbudt veiledning for å finne ny jobb til de berørte studentene."
   },
   {
     "arbeidsgiver": "NoA Ignite",
@@ -84,14 +84,14 @@
         "url": "https://uxnorge.no/sagt-opp-i-siste-liten/"
       }
     ],
-    "detaljer": "Send oss gjerne mer info på skjemaet øverst"
+    "detaljer": "Som følge av oppsigelsen skal de berørte skal ha mottatt økonomisk kompensasjon, samt veiledning for videre jobbsøking. Send oss gjerne mer info på skjemaet øverst."
   },
   {
     "arbeidsgiver": "Dfind",
     "dato_for_oppsigelse": "2023",
     "type": ["nyutdannede"],
     "links": [],
-    "detaljer": "Send oss gjerne mer info på skjemaet øverst"
+    "detaljer": "Send oss gjerne mer info på skjemaet øverst."
   },
   {
     "arbeidsgiver": "Aboveit",
@@ -103,14 +103,14 @@
         "url": "https://uxnorge.no/sagt-opp-i-siste-liten/"
       }
     ],
-    "detaljer": "Send oss gjerne mer info på skjemaet øverst"
+    "detaljer": "Send oss gjerne mer info på skjemaet øverst."
   },
   {
     "arbeidsgiver": "Capgemini",
     "dato_for_oppsigelse": "2023",
     "type": ["utsatt oppstart"],
     "links": [],
-    "detaljer": "Send oss gjerne mer info på skjemaet øverst"
+    "detaljer": "Send oss gjerne mer info på skjemaet øverst."
   },
   {
     "arbeidsgiver": "PA Consulting",
@@ -122,6 +122,6 @@
         "url": "https://www.dn.no/arbeidsliv/nyansatte-far-utsatt-kontraktene-sine-ingrid-25-fikk-tilbud-om-a-vente-i-ett-ar/2-1-1469921"
       }
     ],
-    "detaljer": "Send oss gjerne mer info på skjemaet øverst"
+    "detaljer": "Send oss gjerne mer info på skjemaet øverst."
   }
 ]
