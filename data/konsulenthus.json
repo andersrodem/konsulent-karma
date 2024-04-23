@@ -126,6 +126,14 @@
     "detaljer": "Studentene fikk kompensasjon for deler av lønnen. Send oss gjerne mer info på skjemaet øverst."
   },
   {
+    "arbeidsgiver": "Atea",
+    "dato_for_oppsigelse": "Tidlig 2024",
+    "type": ["internship"],
+    "links": [
+    ],
+    "detaljer": "Signering i begynnelsen av året og kansellering ikke lenge etter. Gjaldt 5 studenter."
+  },
+  {
     "arbeidsgiver": "PA Consulting",
     "dato_for_oppsigelse": "2023",
     "type": ["utsatt oppstart"],
