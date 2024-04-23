@@ -22,18 +22,18 @@ export default function HvorforSvarteliste() {
               </BreadcrumbItem>
               <BreadcrumbSeparator />
               <BreadcrumbItem>
-                <BreadcrumbPage>Hvorfor ha en svarteliste?</BreadcrumbPage>
+                <BreadcrumbPage>Hvorfor finnes denne listen?</BreadcrumbPage>
               </BreadcrumbItem>
             </BreadcrumbList>
           </Breadcrumb>
         </div>
 
         <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl">
-          Hvorfor ha en svarteliste for konsulenthus?
+          Hvorfor ha en &quot;svarteliste&quot; for konsulenthus?
         </h1>
         <p className="leading-7 [&:not(:first-child)]:mt-4">
           <br />
-          Å ha en svarteliste over konsulentselskaper som tilbyr internship til
+          Å ha et register for konsulentselskaper som tilbyr internship til
           studenter, for så å si dem opp før arbeidsperioden begynner, er viktig
           for å beskytte studentenes fremtid og integritet. <br />
           <br />
@@ -45,7 +45,7 @@ export default function HvorforSvarteliste() {
           konsekvensene er store for enkelte, da slike inntekter er kritiske for
           mange studenter. <br />
           <br />
-          Svartelisten fungerer som et viktig verktøy for å holde selskaper
+          Registeret fungerer som et viktig verktøy for å holde selskaper
           ansvarlige for deres handlinger og bidrar til å sikre et mer
           transparent og rettferdig arbeidsmarked for studenter.
           <br />

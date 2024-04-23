@@ -54,7 +54,7 @@ export default function Home() {
         <div className="pt-4">
           <Button asChild>
             <Link href="/hvorfor-ha-en-konsulent-svarteliste">
-              Hvorfor ha en svarteliste?
+              Hvorfor finnes denne listen?
             </Link>
           </Button>{" "}
         </div>
@@ -79,9 +79,6 @@ export default function Home() {
         </div>
       </div>
       <div className="pt-6 lg:w-4/5 mx-auto px-4 w-full">
-        <h2 className="scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight first:mt-0">
-          Svartelistede konsulenthus
-        </h2>
         <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-4 pt-10 items-stretch">
           {filteredKonsulenthus.length === 0 ? (
             <div className="col-span-full pt-36  w-full text-center ">
