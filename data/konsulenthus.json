@@ -106,6 +106,22 @@
     "detaljer": "Aboveit vil ikke kommentere saken, og det er ukjent hvor mange berørte det er snakk om. Send oss gjerne mer info på skjemaet øverst."
   },
   {
+    "arbeidsgiver": "Knowit",
+    "dato_for_oppsigelse": "Mai/juni 2023",
+    "type": ["ukjent (internship og/eller nyansatte)"],
+    "links": [
+    ],
+    "detaljer": "Oslo-kontoret og Trondheim-kontoret ble sagt opp i månedsskiftet mai/juni med én måneds kompensasjon."
+  },
+  {
+    "arbeidsgiver": "Bredvid",
+    "dato_for_oppsigelse": "Februar 2024",
+    "type": ["internship"],
+    "links": [
+    ],
+    "detaljer": "Send oss gjerne mer info på skjemaet øverst."
+  },
+  {
     "arbeidsgiver": "PA Consulting",
     "dato_for_oppsigelse": "2023",
     "type": ["utsatt oppstart"],
