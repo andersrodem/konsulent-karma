@@ -153,5 +153,13 @@
       }
     ],
     "detaljer": "Send oss gjerne mer info på skjemaet øverst."
+  },
+  {
+    "arbeidsgiver": "Experis",
+    "dato_for_oppsigelse": "Februar 2023",
+    "type": ["graduate program"],
+    "links": [
+    ],
+    "detaljer": "Ingen kompensasjon eller oppfølging. Gjelder Oslo-kontoret."
   }
 ]
