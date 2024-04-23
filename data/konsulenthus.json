@@ -12,11 +12,25 @@
     "detaljer": "Netlight terminerte kontrakter for både internships og fulltidsstillinger. For sommerstudentene kom beskjeden to måneder før oppstart. Nyutdannede får 2 måneder kompensasjon."
   },
   {
-    "arbeidsgiver": "Iterate",
-    "dato_for_oppsigelse": "Februar 2024",
-    "type": ["internship", "nyansatte"],
+    "arbeidsgiver": "Dfind Consulting",
+    "dato_for_oppsigelse": "Juni 2023",
+    "type": ["nyutdannede"],
     "links": [],
-    "detaljer": "Iterate terminerte kontrakter for sommerstudenter. De har også permitert fulltidsansatte. Send oss gjerne mer info på skjemaet øverst."
+    "detaljer": "Send oss gjerne mer info på skjemaet øverst."
+  },
+  {
+    "arbeidsgiver": "Netcompany",
+    "dato_for_oppsigelse": "2023, 2020",
+    "type": ["nyutdannede"],
+    "links": [],
+    "detaljer": "Enkelte nyansatte permittert et par uke før oppstart. Send oss gjerne mer info på skjemaet øverst."
+  },
+  {
+    "arbeidsgiver": "Bain & Company",
+    "dato_for_oppsigelse": "April 2024",
+    "type": ["utsatt oppstart"],
+    "links": [],
+    "detaljer": "Oppstart for nyansatte utsatt fra august til januar/februar. Send oss gjerne mer info på skjemaet øverst."
   },
   {
     "arbeidsgiver": "Variant",
@@ -26,6 +40,10 @@
       {
         "text": "Artikkel i kode24",
         "url": "https://www.kode24.no/artikkel/variant-avlyser-sommervikarer-og-nyansatte-foles-faelt/80980778"
+      },
+      {
+        "text": "Egen blogg",
+        "url": "https://blog.variant.no/permittering-i-variant-96c16681787f"
       }
     ],
     "detaljer": "Variant terminerte kontrakter for både internships og fulltidsstillinger."
@@ -92,7 +110,7 @@
         "url": "https://uxnorge.no/sagt-opp-i-siste-liten/"
       }
     ],
-    "detaljer": "Fink terminerte kontrakten til flere av de nyutdannede som skulle starte i 2023. Selskapet skal ha tilbudt veiledning for å finne ny jobb til de berørte studentene."
+    "detaljer": "Fink terminerte kontrakten til flere av de nyutdannede som skulle starte i 2023. Selskapet skal ha tilbudt veiledning for å finne ny jobb til de berørte studentene. De mottok kompensasjon."
   },
   {
     "arbeidsgiver": "NoA Ignite",
@@ -105,6 +123,13 @@
       }
     ],
     "detaljer": "Som følge av oppsigelsen skal de berørte skal ha mottatt økonomisk kompensasjon, samt veiledning for videre jobbsøking. Send oss gjerne mer info på skjemaet øverst."
+  },
+  {
+    "arbeidsgiver": "Iterate",
+    "dato_for_oppsigelse": "Februar 2024",
+    "type": ["internship"],
+    "links": [],
+    "detaljer": "Iterate måtte permittere fulltidsansatte og kunne derfor ikke ansette sommerstudenter. Selskapet sendte en attest til videre jobbsøking, veiledning på portfolio og tilbud om at de kunne lese over søknadsteksten til andre jobber. Send oss gjerne mer info på skjemaet øverst."
   },
   {
     "arbeidsgiver": "Aboveit",
@@ -132,13 +157,17 @@
     "type": ["internship", "nyansatte"],
     "links": [
     ],
-    "detaljer": "Studentene fikk kompensasjon for deler av lønnen. Send oss gjerne mer info på skjemaet øverst."
+    "detaljer": "Studentene fikk kompensasjon for deler av lønnen og veiledning til å finne ny jobb. Send oss gjerne mer info på skjemaet øverst."
   },
   {
     "arbeidsgiver": "Atea",
     "dato_for_oppsigelse": "Tidlig 2024",
     "type": ["internship"],
     "links": [
+      {
+        "text": "Artikkel i Kode24",
+        "url": "https://www.kode24.no/artikkel/atea-avbryter-kontrakter-med-studenter-vi-er-lei-oss/81301891"
+      }
     ],
     "detaljer": "Signering i begynnelsen av året og kansellering ikke lenge etter. Gjaldt 5 studenter."
   },
@@ -161,5 +190,17 @@
     "links": [
     ],
     "detaljer": "Ingen kompensasjon eller oppfølging. Gjelder Oslo-kontoret."
+  },
+  {
+    "arbeidsgiver": "CGI",
+    "dato_for_oppsigelse": "2023",
+    "type": ["internship"],
+    "links": [
+      {
+        "text": "Artikkel i Kode24",
+        "url": "https://www.kode24.no/artikkel/victoria-mista-sommerjobben-og-mener-losningen-er-enkel/80898523"
+      }
+    ],
+    "detaljer": "Send oss gjerne mer info på skjemaet øverst."
   }
 ]
