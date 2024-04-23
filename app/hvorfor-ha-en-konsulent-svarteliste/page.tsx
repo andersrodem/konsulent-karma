@@ -58,7 +58,7 @@ export default function HvorforSvarteliste() {
           konsekvenser, og motiverer dem til å forbedre sine forretningsmetoder.
           <br />
           <br />
-          Når det er sagt forstår vi at det er krevende tider å drive selskap i, særlig for de mindre selskapene. Samtidig er det viktig med åpenhet og forutsigbarhet ovenfor studentene. Den tapte inntekten og erfaringen sitter tungt i studenthjertene, særlig når det kommer så sent. Vi er ikke ute etter å "ta" noen, men vi er ute etter å skape debatt og positiv endring for alle.
+          Når det er sagt forstår vi at det er krevende tider å drive selskap i, særlig for de mindre selskapene. Samtidig er det viktig med åpenhet og forutsigbarhet ovenfor studentene. Den tapte inntekten og erfaringen sitter tungt i studenthjertene, særlig når det kommer så sent. Vi er ikke ute etter å ta noen, men vi er ute etter å skape debatt og positiv endring for alle.
           <br />
           <br />
           Synes du det er litt mye? Har du innspill? Hjelp oss bli bedre! Vi kan
