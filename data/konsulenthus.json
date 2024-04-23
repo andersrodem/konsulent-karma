@@ -14,7 +14,7 @@
   {
     "arbeidsgiver": "Iterate",
     "dato_for_oppsigelse": "Februar 2024",
-    "type": ["internship"],
+    "type": ["internship", "nyansatte"],
     "links": [],
     "detaljer": "Iterate terminerte kontrakter for sommerstudenter. De har også permitert fulltidsansatte. Send oss gjerne mer info på skjemaet øverst."
   },
@@ -29,6 +29,15 @@
       }
     ],
     "detaljer": "Variant terminerte kontrakter for både internships og fulltidsstillinger."
+  },
+  {
+    "arbeidsgiver": "Tieto Evry",
+    "dato_for_oppsigelse": "August 2023",
+    "type": ["nyutdannede"],
+    "links": [
+
+    ],
+    "detaljer": "Betalte ut én månedslønn i kompensasjon."
   },
   {
     "arbeidsgiver": "Itera",
