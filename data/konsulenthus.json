@@ -12,20 +12,6 @@
     "detaljer": "Netlight terminerte kontrakter for både internships og fulltidsstillinger. For sommerstudentene kom beskjeden to måneder før oppstart. Nyutdannede får 2 måneder kompensasjon."
   },
   {
-    "arbeidsgiver": "Dfind Consulting",
-    "dato_for_oppsigelse": "Juni 2023",
-    "type": ["nyutdannede"],
-    "links": [],
-    "detaljer": "Send oss gjerne mer info på skjemaet øverst."
-  },
-  {
-    "arbeidsgiver": "Netcompany",
-    "dato_for_oppsigelse": "2023, 2020",
-    "type": ["nyutdannede"],
-    "links": [],
-    "detaljer": "Enkelte nyansatte permittert et par uke før oppstart. Send oss gjerne mer info på skjemaet øverst."
-  },
-  {
     "arbeidsgiver": "Bain & Company",
     "dato_for_oppsigelse": "April 2024",
     "type": ["utsatt oppstart"],
@@ -49,13 +35,35 @@
     "detaljer": "Variant terminerte kontrakter for både internships og fulltidsstillinger."
   },
   {
-    "arbeidsgiver": "Tieto Evry",
-    "dato_for_oppsigelse": "August 2023",
+    "arbeidsgiver": "Bredvid",
+    "dato_for_oppsigelse": "Februar 2024",
     "type": ["nyutdannede"],
     "links": [
-
+      {
+        "text": "Artikkel i kode24",
+        "url": "https://www.kode24.no/artikkel/studenter-innkalt-pa-informasjonsmote-om-oppstart-for-a-fa-kontraktene-avbrutt/81308818"
+      }
     ],
-    "detaljer": "Betalte ut én månedslønn i kompensasjon."
+    "detaljer": "15 kontrakter ble terminert. Bredvid har tilbudt 25 000 kr i kompensasjon til de berørte, samt veiledning for å søke ny jobb."
+  },
+  {
+    "arbeidsgiver": "Iterate",
+    "dato_for_oppsigelse": "Februar 2024",
+    "type": ["internship"],
+    "links": [],
+    "detaljer": "Iterate måtte permittere fulltidsansatte og kunne derfor ikke ansette sommerstudenter. Selskapet sendte en attest til videre jobbsøking, veiledning på portfolio og tilbud om at de kunne lese over søknadsteksten til andre jobber. Send oss gjerne mer info på skjemaet øverst."
+  },
+  {
+    "arbeidsgiver": "Atea",
+    "dato_for_oppsigelse": "Tidlig 2024",
+    "type": ["internship"],
+    "links": [
+      {
+        "text": "Artikkel i Kode24",
+        "url": "https://www.kode24.no/artikkel/atea-avbryter-kontrakter-med-studenter-vi-er-lei-oss/81301891"
+      }
+    ],
+    "detaljer": "Studentene signerte kontrakter i begynnelsen av året, og fem av disse ble avbrutt ikke lenge etter."
   },
   {
     "arbeidsgiver": "Itera",
@@ -79,6 +87,34 @@
     "type": ["utsatt oppstart", "sagt opp etter utsatt oppstart"],
     "links": [],
     "detaljer": "Kearney skal ha utsatt oppstart fra august til januar, og deretter sagt opp i desember. De skal dog ha betalt kompensasjon til de nyutdannede det gjaldt. Denne informasjonen er ikke verifisert. Send oss gjerne mer info på skjemaet øverst."
+  },
+  {
+    "arbeidsgiver": "Tieto Evry",
+    "dato_for_oppsigelse": "August 2023",
+    "type": ["nyutdannede"],
+    "links": [],
+    "detaljer": "Betalte ut én månedslønn i kompensasjon."
+  },
+  {
+    "arbeidsgiver": "Dfind Consulting",
+    "dato_for_oppsigelse": "Juni 2023",
+    "type": ["nyutdannede"],
+    "links": [],
+    "detaljer": "Send oss gjerne mer info på skjemaet øverst."
+  },
+  {
+    "arbeidsgiver": "Curamando",
+    "dato_for_oppsigelse": "Juli 2023",
+    "type": ["nyutdannede"],
+    "links": [],
+    "detaljer": "Curamando sa opp nyutdannede rett før oppstart."
+  },
+  {
+    "arbeidsgiver": "Knowit",
+    "dato_for_oppsigelse": "Mai/juni 2023",
+    "type": ["ukjent (internship og/eller nyansatte)"],
+    "links": [],
+    "detaljer": "Oslo-kontoret og Trondheim-kontoret ble sagt opp i månedsskiftet mai/juni med én måneds kompensasjon."
   },
   {
     "arbeidsgiver": "Forte Digital",
@@ -113,6 +149,13 @@
     "detaljer": "Fink terminerte kontrakten til flere av de nyutdannede som skulle starte i 2023. Selskapet skal ha tilbudt veiledning for å finne ny jobb til de berørte studentene. De mottok kompensasjon."
   },
   {
+    "arbeidsgiver": "Netcompany",
+    "dato_for_oppsigelse": "2023, 2020",
+    "type": ["nyutdannede"],
+    "links": [],
+    "detaljer": "Enkelte nyansatte permittert et par uke før oppstart. Send oss gjerne mer info på skjemaet øverst."
+  },
+  {
     "arbeidsgiver": "NoA Ignite",
     "dato_for_oppsigelse": "2023",
     "type": ["nyutdannede"],
@@ -125,21 +168,6 @@
     "detaljer": "Som følge av oppsigelsen skal de berørte skal ha mottatt økonomisk kompensasjon, samt veiledning for videre jobbsøking. Send oss gjerne mer info på skjemaet øverst."
   },
   {
-    "arbeidsgiver": "Curamando",
-    "dato_for_oppsigelse": "Juli 2023",
-    "type": ["nyutdannede"],
-    "links": [
-    ],
-    "detaljer": "Curamando sa opp nyutdannede rett før oppstart."
-  },
-  {
-    "arbeidsgiver": "Iterate",
-    "dato_for_oppsigelse": "Februar 2024",
-    "type": ["internship"],
-    "links": [],
-    "detaljer": "Iterate måtte permittere fulltidsansatte og kunne derfor ikke ansette sommerstudenter. Selskapet sendte en attest til videre jobbsøking, veiledning på portfolio og tilbud om at de kunne lese over søknadsteksten til andre jobber. Send oss gjerne mer info på skjemaet øverst."
-  },
-  {
     "arbeidsgiver": "Aboveit",
     "dato_for_oppsigelse": "2023",
     "type": ["nyutdannede"],
@@ -150,38 +178,6 @@
       }
     ],
     "detaljer": "Aboveit vil ikke kommentere saken, og det er ukjent hvor mange berørte det er snakk om. Send oss gjerne mer info på skjemaet øverst."
-  },
-  {
-    "arbeidsgiver": "Knowit",
-    "dato_for_oppsigelse": "Mai/juni 2023",
-    "type": ["ukjent (internship og/eller nyansatte)"],
-    "links": [
-    ],
-    "detaljer": "Oslo-kontoret og Trondheim-kontoret ble sagt opp i månedsskiftet mai/juni med én måneds kompensasjon."
-  },
-  {
-    "arbeidsgiver": "Bredvid",
-    "dato_for_oppsigelse": "Februar 2024",
-    "type": ["internship", "nyansatte"],
-    "links": [
-      {
-        "text": "Artikkel i kode24",
-        "url": "https://www.kode24.no/artikkel/studenter-innkalt-pa-informasjonsmote-om-oppstart-for-a-fa-kontraktene-avbrutt/81308818"
-      }
-    ],
-    "detaljer": "Studentene fikk kompensasjon for deler av lønnen og veiledning til å finne ny jobb. Send oss gjerne mer info på skjemaet øverst."
-  },
-  {
-    "arbeidsgiver": "Atea",
-    "dato_for_oppsigelse": "Tidlig 2024",
-    "type": ["internship"],
-    "links": [
-      {
-        "text": "Artikkel i Kode24",
-        "url": "https://www.kode24.no/artikkel/atea-avbryter-kontrakter-med-studenter-vi-er-lei-oss/81301891"
-      }
-    ],
-    "detaljer": "Signering i begynnelsen av året og kansellering ikke lenge etter. Gjaldt 5 studenter."
   },
   {
     "arbeidsgiver": "PA Consulting",
