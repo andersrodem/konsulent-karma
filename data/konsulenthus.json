@@ -125,6 +125,14 @@
     "detaljer": "Som følge av oppsigelsen skal de berørte skal ha mottatt økonomisk kompensasjon, samt veiledning for videre jobbsøking. Send oss gjerne mer info på skjemaet øverst."
   },
   {
+    "arbeidsgiver": "Curamodo",
+    "dato_for_oppsigelse": "Juli 2023",
+    "type": ["nyutdannede"],
+    "links": [
+    ],
+    "detaljer": "Curamodo sa opp nyutdannede rett før oppstart."
+  },
+  {
     "arbeidsgiver": "Iterate",
     "dato_for_oppsigelse": "Februar 2024",
     "type": ["internship"],
@@ -156,6 +164,10 @@
     "dato_for_oppsigelse": "Februar 2024",
     "type": ["internship", "nyansatte"],
     "links": [
+      {
+        "text": "Artikkel i kode24",
+        "url": "https://www.kode24.no/artikkel/studenter-innkalt-pa-informasjonsmote-om-oppstart-for-a-fa-kontraktene-avbrutt/81308818"
+      }
     ],
     "detaljer": "Studentene fikk kompensasjon for deler av lønnen og veiledning til å finne ny jobb. Send oss gjerne mer info på skjemaet øverst."
   },
