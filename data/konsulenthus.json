@@ -113,7 +113,12 @@
     "arbeidsgiver": "Knowit",
     "dato_for_oppsigelse": "Mai/juni 2023",
     "type": ["ukjent (internship og/eller nyansatte)"],
-    "links": [],
+    "links": [
+      {
+        "text": "Artikkel i UX Norge",
+        "url": "https://uxnorge.no/kutter-ikke-studenter-og-nyutdannede/"
+      }
+    ],
     "detaljer": "Oslo-kontoret og Trondheim-kontoret ble sagt opp i månedsskiftet mai/juni med én måneds kompensasjon."
   },
   {
