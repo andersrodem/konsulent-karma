@@ -37,14 +37,14 @@
   {
     "arbeidsgiver": "Bredvid",
     "dato_for_oppsigelse": "Februar 2024",
-    "type": ["nyutdannede"],
+    "type": ["internship", "nyutdannede"],
     "links": [
       {
         "text": "Artikkel i kode24",
         "url": "https://www.kode24.no/artikkel/studenter-innkalt-pa-informasjonsmote-om-oppstart-for-a-fa-kontraktene-avbrutt/81308818"
       }
     ],
-    "detaljer": "15 kontrakter ble terminert. Bredvid har tilbudt 25 000 kr i kompensasjon til de berørte, samt veiledning for å søke ny jobb."
+    "detaljer": "15 kontrakter ble terminert. Bredvid har tilbudt 25 000 kr i kompensasjon til de berørte (25 000 kr for nyansatte, 10 0000 kr for interns), samt veiledning for å søke ny jobb."
   },
   {
     "arbeidsgiver": "Iterate",
