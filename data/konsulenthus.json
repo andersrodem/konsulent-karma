@@ -1,5 +1,17 @@
 [
   {
+    "arbeidsgiver": "Experis Academy",
+    "dato_for_oppsigelse": "April/Mai 2024, 2023, 2022",
+    "type": ["academy"],
+    "links": [
+      {
+        "text": "Artikkel i kode24",
+        "url": "https://www.kode24.no/artikkel/experis-academy-permitterer-18-utviklere-og-stanser-opptak-ma-ha-is-i-magen/81411879"
+      }
+    ],
+    "detaljer": "Experis Academy er bootcamps for utviklere. De har permittert 18 stk i 2024."
+  },
+  {
     "arbeidsgiver": "Netlight",
     "dato_for_oppsigelse": "April 2024",
     "type": ["internship", "nyutdannede"],
