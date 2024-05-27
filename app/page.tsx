@@ -47,7 +47,7 @@ export default function Home() {
           Redd for å miste internshipet eller jobben?
         </h1>
         <p className="leading-7 [&:not(:first-child)]:mt-5">
-          Disse selskapene har kansellert sommerjobber, graduate-programmer
+          Disse selskapene har kansellert/permittert sommerjobber, graduate-programmer
           eller nyansettelser i siste liten. Finn den jobben du vil ha, men vær
           litt ekstra forsiktig med å signere hos disse.
         </p>
