@@ -24,9 +24,7 @@ export default function KonsulenthusCard({
           <CardTitle>{arbeidsgiver}</CardTitle>
 
           <div className="space-x-2 ">
-            <small className="text-sm font-medium leading-none">
-              Har sagt opp:
-            </small>
+
 
             {type.map((item, index) => (
               <Badge key={index} variant="outline">
