@@ -25,7 +25,7 @@ export default function KonsulenthusCard({
 
           <div className="space-x-2 ">
             <small className="text-sm font-medium leading-none">
-              Har sagt opp:
+              Har sagt opp eller permittert:
             </small>
 
             {type.map((item, index) => (
