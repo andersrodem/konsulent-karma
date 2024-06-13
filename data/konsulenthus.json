@@ -1,5 +1,17 @@
 [
   {
+    "arbeidsgiver": "SALT", 
+    "dato_for_oppsigelse": "2024",
+    "type": ["permittering academy"],
+    "links": [
+    {
+    "text": "Artikkel i kode24",
+    "url": "https://www.kode24.no/artikkel/elever-raser-mot-salt-bootcamp-ville-ikke-lenger-love-dem-jobb/81497360"
+    }
+    ],
+    "detaljer": "SALT er bootcamps for utviklere. Du snudde på å garantere utviklere jobb. Les saken for mer info."
+    },
+  {
     "arbeidsgiver": "Experis Academy", 
     "dato_for_oppsigelse": "April/Mai 2024, 2023, 2022",
     "type": ["permittering academy"],
