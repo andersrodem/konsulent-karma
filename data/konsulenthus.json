@@ -231,5 +231,14 @@
       }
     ],
     "detaljer": "Send oss gjerne mer info på skjemaet øverst."
+  },
+  {
+    "arbeidsgiver": "Cognite",
+    "dato_for_oppsigelse": "2023",
+    "type": ["nyutdannede"],
+    "links": [
+
+    ],
+    "detaljer": "Trakk jobbtilbud til nyutdannede. Ga ingen kompensasjon."
   }
 ]
