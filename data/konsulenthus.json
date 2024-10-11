@@ -1,5 +1,13 @@
 [
   {
+    "arbeidsgiver": "Omegapoint", 
+    "dato_for_oppsigelse": "2024",
+    "type": ["internship"],
+    "links": [
+    ],
+    "detaljer": "Omegapoint trakk tilbake internship et par uker etter tilbud var sendt ut, 10 dager etter søknadsfristen for andre internship. Foreløpig ingen kompensasjon eller hjelp i prosessen videre."
+    },
+  {
     "arbeidsgiver": "SALT", 
     "dato_for_oppsigelse": "2024",
     "type": ["nyutdannede"],
