@@ -1,5 +1,17 @@
 [
   {
+    "arbeidsgiver": "Omegapoint", 
+    "dato_for_oppsigelse": "Oktober 2024",
+    "type": ["internship", "nyutdannede"],
+    "links": [
+    {
+    "text": "Artikkel i kode24",
+    "url": "https://www.kode24.no/artikkel/studenter-mista-sommerjobb-hos-omegapoint-rett-etter-tilbudet/82075085"
+    }
+    ],
+    "detaljer": "Omegapoint trakk tilbake tilbud om sommerjobber og graduate-stillinger kun to uker etter at tilbud ble sendt ut. Foreløpig har ingen kompensasjon eller videre bistand blitt tilbudt de berørte."
+    },
+  {
     "arbeidsgiver": "SALT", 
     "dato_for_oppsigelse": "2024",
     "type": ["nyutdannede"],
