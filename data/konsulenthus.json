@@ -1,5 +1,25 @@
 [
   {
+    "arbeidsgiver": "Variant",
+    "dato_for_oppsigelse": "Februar 2024 + Mars 2025",
+    "type": ["internship", "nyutdannede"],
+    "links": [
+      {
+        "text": "Artikkel i kode24",
+        "url": "https://www.kode24.no/artikkel/variant-avlyser-sommervikarer-og-nyansatte-foles-faelt/80980778"
+      },
+      {
+        "text": "Egen blogg 2024",
+        "url": "https://blog.variant.no/vi-m%C3%A5-dessverre-si-nei-til-noen-veldig-flinke-unge-mennesker-22780884fbb2"
+      },
+      {
+        "text": "Egen blogg 2025",
+        "url": "https://blog.variant.no/variant-reduserer-satsing-p%C3%A5-nyutdannede-721e89f552f1"
+      }
+    ],
+    "detaljer": "Variant terminerte kontrakter for både internships og fulltidsstillinger. De det gjaldt fikk coaching i portfolio og CV samt bistand for å finne ny jobb."
+  },
+  {
     "arbeidsgiver": "Omegapoint", 
     "dato_for_oppsigelse": "Oktober 2024",
     "type": ["internship", "nyutdannede"],
@@ -54,22 +74,7 @@
     "links": [],
     "detaljer": "Oppstart for nyansatte utsatt fra august til januar/februar. Send oss gjerne mer info på skjemaet øverst."
   },
-  {
-    "arbeidsgiver": "Variant",
-    "dato_for_oppsigelse": "Februar 2024",
-    "type": ["internship", "nyutdannede"],
-    "links": [
-      {
-        "text": "Artikkel i kode24",
-        "url": "https://www.kode24.no/artikkel/variant-avlyser-sommervikarer-og-nyansatte-foles-faelt/80980778"
-      },
-      {
-        "text": "Egen blogg",
-        "url": "https://blog.variant.no/vi-m%C3%A5-dessverre-si-nei-til-noen-veldig-flinke-unge-mennesker-22780884fbb2"
-      }
-    ],
-    "detaljer": "Variant terminerte kontrakter for både internships og fulltidsstillinger. De det gjaldt fikk coaching i portfolio og CV samt bistand for å finne ny jobb."
-  },
+
   {
     "arbeidsgiver": "Bredvid",
     "dato_for_oppsigelse": "Februar 2024",
